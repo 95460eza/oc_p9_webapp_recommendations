@@ -2,11 +2,6 @@
 
 flask
 requests
-#json
 pandas
-
-#numpy
-
-
 
 
