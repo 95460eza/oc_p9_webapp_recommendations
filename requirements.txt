@@ -1,0 +1,12 @@
+# For views.py 
+
+flask
+requests
+#json
+pandas
+
+#numpy
+
+
+
+
