@@ -8,8 +8,8 @@ app = Flask(__name__)
 
 # API Endpoint URL
 #api_url = "http://127.0.0.1:5000/predict"
-api_url = "https://oc-p9-azure-function-contentbased-precalculation-all-in-one.azurewebsites.net/predict"
-#api_url = "https://oc-p9-azure-function-contentbased-precalculation-blobbinding.azurewebsites.net/predict"
+#api_url = "https://oc-p9-azure-function-contentbased-precalculation-all-in-one.azurewebsites.net/predict"
+api_url = "https://oc-p9-azure-function-contentbased-precalculation-blobbinding.azurewebsites.net/predict"
 
 headers_for_content_and_response = {'Content-Type': 'application/json', 'accept': 'application/json'}
 
